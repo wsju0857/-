@@ -12,4 +12,6 @@
 + 개발Tool : SublimeText3, Apache 2.4, Tomcat v8.0 SQLyog
 
 ### 결과물 사진
+<div style="text-align: center;">
 &nbsp;<img src="start.webp" width="30%">&nbsp;<img src="board.webp" width="30%">&nbsp;<img src="main.webp" width="30%">
+</div>
