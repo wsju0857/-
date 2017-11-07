@@ -13,6 +13,6 @@
 
 ###결과물 사진
 
-<img src="start.webp" style="width:30%;">
+<img src="start.webp" width="30%">
 <img src="board.webp" style="width:30%;">
 <img src="main.webp" style="width:30%;">
