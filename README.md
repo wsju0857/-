@@ -11,8 +11,7 @@
 + KCP 본인 인증 시스템 연동 : PHP
 + 개발Tool : SublimeText3, Apache 2.4, Tomcat v8.0 SQLyog
 
-###결과물 사진
-
+### 결과물 사진
 <img src="start.webp" width="30%">
-<img src="board.webp" style="width:30%;">
-<img src="main.webp" style="width:30%;">
+<img src="board.webp" width="30%">
+<img src="main.webp" width="30%">
