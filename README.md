@@ -9,7 +9,7 @@
 + Spring Framework을 활용한 PC버전 구현
 + Facebook Graph API를 활용한 페이스북 글쓰기 연동
 + KCP 본인 인증 시스템 연동 : PHP
-+ 개발Tool : SublimeText3, Apache 2.4, Tomcat v8.0 SQLyog
++ 개발Tool : SublimeText3, Apache 2.4, Tomcat v8.0, SQLyog
 
 ### 결과물 사진
 <div align="center">
