@@ -13,4 +13,4 @@
 
 ### 결과물 사진
 &nbsp;<img src="start.webp" width="30%">&nbsp;<img src="board.webp" width="30%">&nbsp;<img src="main.webp" width="30%">
-<div width="30%">hel</div><div width="30%">t</div><div width="30%">a</div>
+<div style="width:30%;">hel</div><div width="30%">t</div><div width="30%">a</div>
