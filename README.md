@@ -15,6 +15,4 @@
 <div align="center">
 <img src="start.webp" width="30%">&nbsp;<img src="board.webp" width="30%">&nbsp;<img src="main.webp" width="30%">
 </div>
-<div align="center">
-	<span align="left">시작화면</span><span align="center">게시판</span><span align="right">실시간 피드</span>
-</div>
+<span align="left">시작화면</span><span align="center">게시판</span><span align="right">실시간 피드</span>
