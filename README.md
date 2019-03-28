@@ -1,4 +1,5 @@
 ## 춘천, 오늘
+#### [소개 페이지 (바로가기)](http://portal.heretoday.kr)
 #### [PlayStore (바로가기)](https://play.google.com/store/apps/details?id=com.heretoday.cctoday&hl=ko)
 ### 개요
 + 춘천 뉴스, SNS, 유가 등의 다양한 정보를 제공하는 하이브리드 앱.
@@ -13,5 +14,5 @@
 
 ### 결과물 사진
 <div align="center">
-<img src="start.webp" width="30%">&nbsp;<img src="board.webp" width="30%">&nbsp;<img src="main.webp" width="30%">
+<img src="feed.png" width="30%">&nbsp;<img src="event.png" width="30%">&nbsp;<img src="life.png" width="30%">
 </div>
